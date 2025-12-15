@@ -24,7 +24,7 @@
 
 ---
 
-## Featured projects (ตรงกับ Repo บนโปรไฟล์)
+## Featured projects
 ### 1) Beyond-MMR-Project (Python)
 งานด้าน Data/ML และการทดลองวิเคราะห์เชิงลึก  
 Repo: https://github.com/Ploy-ari/Beyond-MMR-Project
