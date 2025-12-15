@@ -1,6 +1,6 @@
 <!-- Profile README: Ploy-ari -->
 
-<h1 align="center">Ariya (Ploy) Raveewongpiboon</h1>
+<h1 align="center">Ariya Raveewongpiboon(Ploy)</h1>
 <p align="center">
   AI Engineering & Data Science • Bangkok University (GPA 3.32)<br/>
   Interests: Data Analytics • ML/AI • Product Insights • Customer Experience
