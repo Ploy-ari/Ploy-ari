@@ -1,44 +1,30 @@
-# Ariya Raveewongpiboon (Ploy)
+<!-- Profile README: Ploy-ari -->
 
-**AI Engineering & Data Science · Bangkok University (Year 3 • GPA 3.32)**  
-Interested in **Data Analytics · Machine Learning · Product Insights · Customer Experience**
+<h1 align="center">Ariya Raveewongpiboon (Ploy)</h1>
+<p align="center">
+  AI Engineering &amp; Data Science Student · Bangkok University (Year 3 · GPA 3.32)<br/>
+  Interests: Data Analytics · ML/AI · Product Insights · Customer Experience
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-ffcce7?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-ffd6f2?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-ffbde3?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-ffc4f0?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-ff9fd6?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-ffacd8?logo=git&logoColor=white" />
+</p>
 
 ---
 
 ## About me
 
-นักศึกษาสาขา AI Engineering & Data Science ที่ชอบเอาข้อมูลมาเล่าเรื่องให้ “เข้าใจง่ายและใช้ตัดสินใจได้จริง”  
-มีประสบการณ์ทำงานสายขายและบริการมากกว่า 1 ปี ทั้ง Retail Fashion, Sportswear และ F&B / Event Sales  
-ถนัดการดูแลลูกค้า แนะนำสินค้า และดึง Insight จากข้อมูลหน้างานมาช่วยพัฒนาธุรกิจ
+- 3rd-year **AI Engineering & Data Science** student who loves turning raw data into clear, friendly stories ✨  
+- 1+ year of experience in **Retail Fashion, Sportswear and F&B / Event Sales** – close to real customers, not just data  
+- Strong at: customer care, product presenting / sampling, closing sales, working in peak hours, basic VM, stock handling, and team work under pressure  
+- ชอบงานที่ต้อง “เข้าใจคน + เข้าใจข้อมูล” แล้วเอามารวมกันเป็น insight ที่ใช้ตัดสินใจได้จริง
 
-**Strengths**
-
-- ด้าน Data: วิเคราะห์ข้อมูล, ทำความสะอาดข้อมูล, เล่าเรื่องด้วย Dashboard / Report  
-- ด้านงานหน้าร้าน: ดูแลลูกค้า, เชียร์ขาย, ปิดการขาย, ดูแลสต็อกและแคชเชียร์  
-- สไตล์การทำงาน: รับผิดชอบงานสูง, เรียนรู้เร็ว, ทำงานเป็นทีมได้ดีแม้ในช่วงงานพีค
-
----
-
-## Technical skills
-
-### Programming & Data
-
-- Python (pandas, numpy, matplotlib)
-- SQL (MySQL)
-- TypeScript, JavaScript (พื้นฐาน), PHP
-- HTML, CSS
-
-### Data & Analytics Tools
-
-- Jupyter Notebook, Google Colab  
-- Power BI  
-- Excel / Google Sheets (Pivot Table, Lookup, Basic Charts)
-
-### Other
-
-- Git & GitHub (ทำโปรเจกต์, เก็บพอร์ต)  
-- POS / Cashier, Stock Management  
-- Customer Service & Sales
+> Short version: I enjoy talking to customers and also enjoy talking to data.
 
 ---
 
@@ -46,8 +32,9 @@ Interested in **Data Analytics · Machine Learning · Product Insights · Custom
 
 ### 1) Shopee-CX-Retention-Dashboard (Python + Power BI)
 
-วิเคราะห์พฤติกรรมลูกค้า Shopee (หมวด Home) เพื่อดู Customer Experience และการซื้อซ้ำ  
-ครอบคลุม Data Cleaning, EDA, Retention Analysis และสร้าง Dashboard สำหรับผู้ใช้งานธุรกิจ  
+Customer analytics project on Shopee (Home category), focusing on **customer experience and retention**.  
+Covers data cleaning, EDA, simple retention analysis and a business-friendly dashboard for non-technical stakeholders.  
+TH: เล่าเส้นทางลูกค้าบน Shopee ว่าติดตรงไหน และควรโฟกัสแก้ที่จุดใดก่อน
 
 Repo: https://github.com/Ploy-ari/Shopee-CX-Retention-Dashboard
 
@@ -55,26 +42,26 @@ Repo: https://github.com/Ploy-ari/Shopee-CX-Retention-Dashboard
 
 ### 2) Beyond-MMR-Project (Python)
 
-งานด้าน Data/ML ทดลองการคาดการณ์ค่าทางการแพทย์ (MMR) ด้วย Python  
-โฟกัสที่การเตรียมข้อมูล, สร้างโมเดลเบื้องต้น และประเมินผลแบบเข้าใจง่าย
+Data/ML project exploring prediction of medical-related values (MMR).  
+Focus on data preparation, model experimentation, and explaining results in simple, understandable language.
 
 Repo: https://github.com/Ploy-ari/Beyond-MMR-Project
 
 ---
 
-### 3) Mini-Hackathon-Thai-Van-Ticket (Jupyter Notebook)
+### 3) Mini-Hackathon-Thailand-Van-Ticket (Jupyter Notebook)
 
-โปรเจกต์ Hackathon: ออกแบบระบบ flow การจองตั๋วรถตู้และการเก็บข้อมูลผู้โดยสาร  
-เน้นออกแบบโครงข้อมูล (Data Flow / Data Pipeline) และวิเคราะห์ความต้องการผู้ใช้งาน
+Hackathon-style notebook designing a **van ticket booking flow** and data structure.  
+Covers user flow design, basic data pipeline thinking and summarizing insights inside a notebook.
 
-Repo: https://github.com/Ploy-ari/Mini-Hackathon-Thai-Van-Ticket
+Repo: https://github.com/Ploy-ari/Mini-Hackathon-Thailand-Van-Ticket
 
 ---
 
 ### 4) ReviewHub-Project (PHP + MySQL)
 
-เว็บแอปจัดการรีวิว/คอมเมนต์สินค้า พร้อมระบบฐานข้อมูลหลังบ้าน  
-ใช้ PHP + MySQL + HTML/CSS สำหรับสร้างฟังก์ชันสมัครสมาชิก เขียนรีวิว และจัดการข้อมูลผ่านหน้าเว็บ
+Web app for managing product reviews/comments with a MySQL backend.  
+Includes sign-up/login, writing reviews and viewing stored data through a simple UI.
 
 Repo: https://github.com/Ploy-ari/ReviewHub-Project
 
@@ -82,8 +69,8 @@ Repo: https://github.com/Ploy-ari/ReviewHub-Project
 
 ### 5) WordDee-ai-web-tech (TypeScript)
 
-โปรเจกต์เว็บด้าน AI (TypeScript) ทดลองสร้างฟังก์ชันช่วยด้านภาษา/คำศัพท์  
-เน้นการเชื่อมต่อฝั่ง Front-end กับ Logic ของ AI และจัดโครงสร้างโปรเจกต์ให้ขยายต่อได้
+AI-related web project in **TypeScript**, experimenting with language/word features.  
+Focus on connecting simple AI logic to a clean front-end and maintainable project structure.
 
 Repo: https://github.com/Ploy-ari/WordDee-ai-web-tech
 
@@ -91,17 +78,21 @@ Repo: https://github.com/Ploy-ari/WordDee-ai-web-tech
 
 ## Experience snapshot
 
-**Retail / Sales / Service**
+**Retail / Sales / Service**  
+Brands: **Rip Curl, GREYHOUND ORIGINAL, CHARLES & KEITH**  
 
-- แบรนด์ที่เคยทำงาน: Rip Curl, GREYHOUND ORIGINAL, CHARLES & KEITH  
-- หน้าที่: แนะนำสินค้าให้เหมาะกับสไตล์ลูกค้า, ปิดการขาย, ดูแลสต็อกและหน้าร้าน (VM)  
+- Advising customers on styles and product choices  
+- Suggesting add-on items and closing sales  
+- Basic visual merchandising (VM) and stock checks  
 
-**F&B / Event Sales**
+**F&B / Event Sales**  
+Brands: **Cha Tra Mue, Lamoon Coffee, PALAM PALAM** และงานบูทอื่น ๆ  
 
-- แบรนด์ที่เคยทำงาน: Cha Tra Mue, Lamoon Coffee, PALAM PALAM ฯลฯ  
-- หน้าที่: ชงเครื่องดื่ม/เตรียมสินค้า, เชียร์ขาย, ให้ชิม / Sampling, ดูแลแคชเชียร์และสต็อก  
+- Preparing drinks/products and serving customers  
+- Sampling & active selling at booths and events  
+- Handling cashier (POS) and inventory  
 
-โฟกัสหลักของประสบการณ์ทั้งหมด คือ **เข้าใจลูกค้า, สื่อสารดี, รับมือช่วงงานพีคได้** และนำมุมมองหน้างานมาเชื่อมกับ Data ได้
+ประสบการณ์ทั้งหมดทำให้คุ้นเคยกับการเจอคนจำนวนมาก รับมือสถานการณ์เร่งด่วน และยังรักษามาตรฐานบริการได้ดี ซึ่งเป็น mindset ที่เอามาใช้กับงาน Data/Project ได้ด้วย
 
 ---
 
@@ -109,4 +100,11 @@ Repo: https://github.com/Ploy-ari/WordDee-ai-web-tech
 
 - LinkedIn: https://www.linkedin.com/in/ariya-rave/  
 - GitHub: https://github.com/Ploy-ari  
-- Email: ariya.raveewong@gmail.com
+- Email: ariya.raveewong@gmail.com  
+
+---
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ploy-ari&show_icons=true&hide_title=true&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ploy-ari&layout=compact&hide_border=false" />
+</p>
